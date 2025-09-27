@@ -4469,7 +4469,7 @@
         "unicode": ["U+1F459"]
     },
     {
-        "name": "womans clothes ≊ womanâ€™s clothes",
+        "name": "womans clothes ≊ woman's clothes",
         "category": "smileys and people",
         "group": "clothing",
         "htmlCode": ["&#128090;"],
@@ -4511,7 +4511,7 @@
         "unicode": ["U+1F392"]
     },
     {
-        "name": "mans shoe ≊ manâ€™s shoe",
+        "name": "mans shoe ≊ man's shoe",
         "category": "smileys and people",
         "group": "clothing",
         "htmlCode": ["&#128094;"],
@@ -4532,14 +4532,14 @@
         "unicode": ["U+1F460"]
     },
     {
-        "name": "womans sandal ≊ womanâ€™s sandal",
+        "name": "womans sandal ≊ woman's sandal",
         "category": "smileys and people",
         "group": "clothing",
         "htmlCode": ["&#128097;"],
         "unicode": ["U+1F461"]
     },
     {
-        "name": "womans boots ≊ womanâ€™s boot",
+        "name": "womans boots ≊ woman's boot",
         "category": "smileys and people",
         "group": "clothing",
         "htmlCode": ["&#128098;"],
@@ -4553,7 +4553,7 @@
         "unicode": ["U+1F451"]
     },
     {
-        "name": "womans hat ≊ womanâ€™s hat",
+        "name": "womans hat ≊ woman's hat",
         "category": "smileys and people",
         "group": "clothing",
         "htmlCode": ["&#128082;"],
@@ -6688,7 +6688,7 @@
         "unicode": ["U+26FD"]
     },
     {
-        "name": "police cars revolving light ≊ police carâ€™s light",
+        "name": "police cars revolving light ≊ police car's light",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128680;"],
@@ -7003,7 +7003,7 @@
         "unicode": ["U+1F570"]
     },
     {
-        "name": "clock face twelve oclock ≊ twelve oâ€™clock",
+        "name": "clock face twelve oclock ≊ twelve o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128347;"],
@@ -7017,7 +7017,7 @@
         "unicode": ["U+1F567"]
     },
     {
-        "name": "clock face one oclock ≊ one oâ€™clock",
+        "name": "clock face one oclock ≊ one o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128336;"],
@@ -7031,7 +7031,7 @@
         "unicode": ["U+1F55C"]
     },
     {
-        "name": "clock face two oclock ≊ two oâ€™clock",
+        "name": "clock face two oclock ≊ two o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128337;"],
@@ -7045,7 +7045,7 @@
         "unicode": ["U+1F55D"]
     },
     {
-        "name": "clock face three oclock ≊ three oâ€™clock",
+        "name": "clock face three oclock ≊ three o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128338;"],
@@ -7059,7 +7059,7 @@
         "unicode": ["U+1F55E"]
     },
     {
-        "name": "clock face four oclock ≊ four oâ€™clock",
+        "name": "clock face four oclock ≊ four o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128339;"],
@@ -7073,7 +7073,7 @@
         "unicode": ["U+1F55F"]
     },
     {
-        "name": "clock face five oclock ≊ five oâ€™clock",
+        "name": "clock face five oclock ≊ five o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128340;"],
@@ -7087,7 +7087,7 @@
         "unicode": ["U+1F560"]
     },
     {
-        "name": "clock face six oclock ≊ six oâ€™clock",
+        "name": "clock face six oclock ≊ six o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128341;"],
@@ -7101,7 +7101,7 @@
         "unicode": ["U+1F561"]
     },
     {
-        "name": "clock face seven oclock ≊ seven oâ€™clock",
+        "name": "clock face seven oclock ≊ seven o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128342;"],
@@ -7115,7 +7115,7 @@
         "unicode": ["U+1F562"]
     },
     {
-        "name": "clock face eight oclock ≊ eight oâ€™clock",
+        "name": "clock face eight oclock ≊ eight o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128343;"],
@@ -7129,7 +7129,7 @@
         "unicode": ["U+1F563"]
     },
     {
-        "name": "clock face nine oclock ≊ nine oâ€™clock",
+        "name": "clock face nine oclock ≊ nine o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128344;"],
@@ -7143,7 +7143,7 @@
         "unicode": ["U+1F564"]
     },
     {
-        "name": "clock face ten oclock ≊ ten oâ€™clock",
+        "name": "clock face ten oclock ≊ ten o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128345;"],
@@ -7157,7 +7157,7 @@
         "unicode": ["U+1F565"]
     },
     {
-        "name": "clock face eleven oclock ≊ eleven oâ€™clock",
+        "name": "clock face eleven oclock ≊ eleven o'clock",
         "category": "travel and places",
         "group": "travel and places",
         "htmlCode": ["&#128346;"],
@@ -11322,7 +11322,7 @@
         "unicode": ["U+1F1E8", "U+1F1ED"]
     },
     {
-        "name": "cã´te dâ€™ivoire",
+        "name": "cã´te d'ivoire",
         "category": "flags",
         "group": "flags",
         "htmlCode": ["&#127464;", "&#127470;"],
